@@ -12,8 +12,8 @@
 ## 📸 **Screenshots**
 
 <div style="text-align: center;">
-  <img src="drillenbirdgame_menu.png" alt="Gameplay Screenshot" width="600">
+  <img src="screenshots/drillenbirdgame_menu.png" alt="Gameplay Screenshot" width="600">
  </div>
  <div style="text-align: center;">
-  <img src="drillenbirdgame_game.png" alt="Gameplay Screenshot" width="600">
+  <img src="screenshots/drillenbirdgame_game.png" alt="Gameplay Screenshot" width="600">
  </div>
